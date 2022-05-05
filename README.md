@@ -2,12 +2,12 @@
 
 Meu nome é Andresa, estudo Front-end desde 2020 e amo programar, me comunicar com pessoas e trocar muitos conhecimentos. 
 
-Para me encontrar:
+:curly_haired_woman: Para me encontrar:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresa-fernandes-9271ba1ba/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desafernandes_/)
 
-Hards Skills: 
+:computer: Hards Skills: 
 
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![DART](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
