@@ -1,6 +1,6 @@
 ### Olá Pessoal :star_struck:
 
-Meu nome é Andresa, Sou engenheira de Software da Zumtec e estou na área de programação desde 2020. Gosto muito de ensinar crianças, me comunicar com pessoas, trocar experiências e dançar! 
+Meu nome é Andresa, Sou engenheira de Software da Zumtec e estou na área de programação desde 2020. Gosto muito de ensinar crianças, me comunicar com pessoas, trocar experiências e dançar afro! Meu objetivo é transformar vidas através da tecnologia e incentivar outras mulheres. 
 
 :curly_haired_woman: Para me encontrar:
 
