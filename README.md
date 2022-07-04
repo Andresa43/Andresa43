@@ -1,6 +1,6 @@
 ### Olá Pessoal :star_struck:
 
-Meu nome é Andresa, estudo Front-end desde 2020 e amo programar, me comunicar com pessoas e trocar muitos conhecimentos. 
+Meu nome é Andresa, Sou engenheira de Software da Zumtec e estou na área de programação desde 2020. Gosto muito de ensinar crianças, me comunicar com pessoas, trocar experiências e dançar! 
 
 :curly_haired_woman: Para me encontrar:
 
