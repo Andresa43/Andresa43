@@ -1,6 +1,6 @@
 ### Olá, Pessoal :star_struck:
 
-Meu nome é Andresa Fernandes, tenho 21 anos e venho construindo a minha carreira na área de programação desde 2020. Sou uma pessoa muito comunica e criativa, o que me ajuda a "pensar fora da caixa" e interagir muito bem. Gosto muito de ensinar crianças (principalmente lógica), trocar experiências e dançar afro! Meu objetivo é transformar vidas através da tecnologia e incentivar outras mulheres. 
+Meu nome é Andresa Fernandes, tenho 22 anos e venho construindo a minha carreira na área de programação desde 2020. Sou uma pessoa muito comunica e criativa, o que me ajuda a "pensar fora da caixa" e interagir muito bem. Gosto muito de ensinar crianças (principalmente lógica), trocar experiências e dançar afro! Meu objetivo é transformar vidas através da tecnologia e incentivar outras mulheres. 
 
 :curly_haired_woman: Para me encontrar:
 
