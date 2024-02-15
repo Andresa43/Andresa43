@@ -1,6 +1,11 @@
 ### Olá, Pessoal :star_struck:
 
-Meu nome é Andresa Fernandes, tenho 22 anos e venho construindo a minha carreira na área de programação desde 2020. Sou uma pessoa muito comunica e criativa, o que me ajuda a "pensar fora da caixa" e interagir muito bem. Gosto muito de ensinar crianças (principalmente lógica), trocar experiências e dançar afro! Meu objetivo é transformar vidas através da tecnologia e incentivar outras mulheres. 
+Iniciei minha jornada como desenvolvedora durante o meu curso de Eletrônica, onde fui introduzida a conceitos como código binário e Pascal, despertando meu interesse em aprofundar na programação. 
+
+Venho construindo a minha carreira como desenvolvedora front-end desde 2020 por meio de cursos profissionalizantes, atualmente estou no nível Analista Júnior de carreira, me especializando em clean code, padrão de projeto, experiência do usuário, usabilidade e interface de usuário com foco no desenvolvimento web. 
+
+Fiz diversos Bootcamps de programação: SENAI, Cubos Academy, Rocketseat, Alura e mais. Atualmente estou cursando Bacharelado em ciência e tecnologia na UFBA. 
+
 
 :curly_haired_woman: Para me encontrar:
 
