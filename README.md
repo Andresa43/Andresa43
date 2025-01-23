@@ -2,7 +2,9 @@
 
 Desde 2020, venho construindo minha carreira como desenvolvedora front-end, atualmente no nível Analista Júnior, com especialização em clean code, padrões de projeto, experiência do usuário, usabilidade e interface de usuário com foco no desenvolvimento web. 
 
-Participei de diversos bootcamps de programação, incluindo SENAI, Cubos Academy, Rocketseat e Alura. Atualmente, estou cursando Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA. 
+Participei de diversos bootcamps de programação, incluindo SENAI, Cubos Academy, Rocketseat e Alura. 
+
+Atualmente, estou cursando Bacharelado Interdisciplinar em Ciência e Tecnologia na UFBA. 
 
 
 :curly_haired_woman: Para me encontrar:
