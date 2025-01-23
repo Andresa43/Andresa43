@@ -14,6 +14,7 @@ Atualmente, estou cursando Bacharelado Interdisciplinar em Ciência e Tecnologia
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresa.ifba@gmail.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkIGX0s2YvvZhrGizmKh8iQ)
 
+
 :computer: Hards Skills: 
 
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,6 +23,15 @@ Atualmente, estou cursando Bacharelado Interdisciplinar em Ciência e Tecnologia
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
+
+🖊️ UI Design:
+
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresa43&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
